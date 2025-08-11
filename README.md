@@ -52,8 +52,8 @@ I document my journey through [CSDN blog](https://blog.csdn.net/2301_79433391?ty
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&langs_count=8&theme=radical&hide=c,c++"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&langs_count=8&theme=radical&hide=c,c++"/>
 </p>  
 
 
