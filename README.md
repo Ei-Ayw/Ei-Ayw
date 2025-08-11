@@ -26,7 +26,7 @@ I document my journey through [CSDN blog](https://blog.csdn.net/2301_79433391?ty
 - **[cangqiongzhijian-frontend](https://github.com/Ei-Ayw/cangqiongzhijian-frontend)**  
   A sophisticated Vue-based frontend application with rich interactive features.  
   <p align="center">
-    <img src="https://github.com/Ei-Ayw/cangqiongzhijian-frontend/blob/master/img.png" width="600" alt="Cangqiongzhijian Interface">
+    <img src="https://github.com/Ei-Ayw/cangqiongzhijian-frontend/blob/master/img.png" width="1000" alt="Cangqiongzhijian Interface">
   </p>
   • Modern UI design with Vue 3 and TypeScript  
   • Seamless state management and responsive layouts  
