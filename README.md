@@ -50,13 +50,6 @@ I document my journey through [CSDN blog](https://blog.csdn.net/2301_79433391?ty
   • PyTorch-based recommendation engine for personalized workflows  
 
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&langs_count=8&theme=radical&hide=c,c++"/>
-</p>  
-
-
 ### 📫 Let’s Connect!  
 - 🔗 [CSDN Blog](https://blog.csdn.net/2301_79433391?type=blog)  
 - 💬 Open to collaborations on full-stack AI projects or PyTorch research  
