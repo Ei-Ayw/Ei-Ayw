@@ -1,62 +1,114 @@
-## Full-Stack Engineer | AI Researcher  
-### Specializing in Java/SpringBoot, Vue & PyTorch Deep Learning
+<h1 align="center">
+  Hi, I'm Ei-Ayw
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px" alt="hi">
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Coding Illustration">
+  <strong>Full-Stack Engineer & AI Researcher</strong><br>
+  Building production-grade systems across the entire stack — from Rust runtimes to PyTorch research.
 </p>
 
-### 🚀 About Me  
-As a Data Science and Big Data Technology specialist, I merge engineering excellence with AI innovation. My work focuses on building robust full-stack systems and advancing deep learning research using PyTorch.  
-
-I document my journey through [CSDN blog](https://blog.csdn.net/2301_79433391?type=blog) with 20+ technical articles, including insights from AI competitions and research projects. When not coding, I'm either refining neural network architectures or contributing to open-source—because the best solutions come from collaboration.  
-
-
-### 💻 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</p>  
+  <a href="https://blog.csdn.net/2301_79433391?type=blog">
+    <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" alt="CSDN Blog">
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Ei-Ayw&color=blue&style=flat-square" alt="Profile Views">
+</p>
 
+---
 
-### 🏆 Featured Projects  
-- **[cangqiongzhijian-frontend](https://github.com/Ei-Ayw/cangqiongzhijian-frontend)**  
-  A sophisticated Vue-based frontend application with rich interactive features.  
-  <p align="center">
-    <img src="https://github.com/Ei-Ayw/cangqiongzhijian-frontend/blob/master/docs/images/img_2.png" width="1000" alt="Cangqiongzhijian Interface">
-  </p>
-  • Modern UI design with Vue 3 and TypeScript  
-  • Seamless state management and responsive layouts  
+### About Me
 
+I'm a **Data Science & Big Data Technology** student with a strong focus on shipping real products — not just writing code. My work spans from low-level systems (Rust, Go) to full-stack applications (Java/Spring Boot, Vue/React) and deep learning research (PyTorch).
 
-- **[ayw-oj](https://github.com/Ei-Ayw/ayw-oj-backend)**  
-  A full-stack online judge platform with Java/SpringBoot backend and Vue frontend.  
-  <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/166640089/438891601-c5c92d3d-a985-4820-bee5-af7604f5e721.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI3MTA3MTIsIm5iZiI6MTc3MjcxMDQxMiwicGF0aCI6Ii8xNjY2NDAwODkvNDM4ODkxNjAxLWM1YzkyZDNkLWE5ODUtNDgyMC1iZWU1LWFmNzYwNGY1ZTcyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwNVQxMTMzMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTI0NWQzMWJmM2M2OGQxNzhkZDNkNTY0ZTRlMmIwZTg5ZTY4ZWNmYTZiM2QzZjY4YTc4ZWVmMzI5NzA2OWM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hbNWfqfLRETfDmFjMBqo_O-y7XwDHJEqTc2M7kC35Js" width="1000" alt="Online Judge System Interface">
-  </p>
-  • Supports real-time code submission and automated evaluation  
-  • Features interactive problem statistics dashboard  
+I believe good engineering is about **clarity, correctness, and clean abstractions**. Every project I build reflects this philosophy: well-structured code, comprehensive documentation, and production-ready architecture.
 
+---
 
-- **[zhimianyun](https://github.com/Ei-Ayw/zhimianyun-backend)**  
-  Cloud desktop solution integrating AI-powered user behavior analysis.  
-  <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/166640089/438880491-7d7c03f0-301f-4247-ab91-5e8ca6b85cdb.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI3MTA4MDUsIm5iZiI6MTc3MjcxMDUwNSwicGF0aCI6Ii8xNjY2NDAwODkvNDM4ODgwNDkxLTdkN2MwM2YwLTMwMWYtNDI0Ny1hYjkxLTVlOGNhNmI4NWNkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMwNVQxMTM1MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNDE2YmE4NTAzZDFlYTkzMDkxYWU2MTY5ZGNlMDRiZWIwMWZjZjQzYTI0NWNiNjJiODhlMmI5NzVkODQ1ODA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.C2ZAcoBXr2pgEq7eHLCh8eQhq18onpzbwiDDMqgQvv8" width="1000" alt="Cloud Desktop Interface">
-  </p>
-  • TypeScript/Vue frontend with Java microservices backend  
-  • PyTorch-based recommendation engine for personalized workflows  
+### Tech Stack
 
+**Languages**
 
-### 📫 Let’s Connect!  
-- 🔗 [CSDN Blog](https://blog.csdn.net/2301_79433391?type=blog)  
-- 💬 Open to collaborations on full-stack AI projects or PyTorch research  
-- 📧 Reach out for discussions on SpringBoot-Vue integration or deep learning applications  
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-> *"Good code is its own best documentation."* — Steve McConnell  
+**Frameworks & Libraries**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Mamba](https://img.shields.io/badge/Mamba_SSM-8B5CF6?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=flat-square)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### Featured Projects
+
+> Sorted by technical depth. Each project is built from scratch with clean architecture, full documentation, and production-ready code.
+
+#### Systems & Desktop
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**PocketClaw**](https://github.com/Ei-Ayw/PocketClaw) | `Rust` `Tauri 2.0` `React` `TypeScript` | High-performance cross-platform AI desktop assistant powered by ZeroClaw Engine. Direct IPC to Rust core, plugin system, multi-provider LLM support, security sandbox. |
+| [**CryptoSage**](https://github.com/Ei-Ayw/CryptoSage) | `Python` `React` `TypeScript` `DeepSeek` | AI-driven cryptocurrency trading intelligence platform. Real-time market analysis, multi-exchange integration, backtesting engine, and interactive dashboard. |
+
+#### AI / Deep Learning Research
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**DFMamba**](https://github.com/Ei-Ayw/DFMamba) | `Python` `PyTorch` `Mamba SSM` `CUDA` | Novel semantic segmentation network for high-resolution remote sensing images. Improved UNetMamba with enhanced feature fusion and custom CUDA kernels. |
+| [**KnowledgeForge**](https://github.com/Ei-Ayw/KnowledgeForge) | `FastAPI` `React` `ChromaDB` `LLM` | RAG-powered intelligent document Q&A platform. Supports PDF/Markdown parsing, vector retrieval, multi-turn conversation with context-aware responses. |
+
+#### Full-Stack Applications
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**CodingQuest OJ**](https://github.com/Ei-Ayw/ayw-oj-backend) | `Java` `Spring Boot` `Vue` `Elasticsearch` | Full-stack online judge system with secure code sandbox, async evaluation, multi-language support, and real-time submission tracking. |
+| [**SyncPulse**](https://github.com/Ei-Ayw/SyncPulse) | `React` `FastAPI` `Celery` `Redis` | Automated GitHub-to-Gitee repository mirroring platform. OAuth 2.0 integration, webhook-triggered sync, real-time monitoring dashboard. |
+| [**RentEase**](https://github.com/Ei-Ayw/RentEase-Server) | `Django` `Vue` `WeChat Mini Program` | Smart rental management platform — three-tier architecture with AI-powered recommendations, WebSocket real-time chat, and map integration. |
+
+#### Platform & DevOps
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**agent-design**](https://github.com/Ei-Ayw/agent-design) | `Next.js 14` `FastAPI` `Helm` `K8s` | AI Agent orchestration platform with SSE streaming, RAG hybrid retrieval, tool calling, workflow approval engine, and OpenTelemetry observability. |
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ei-Ayw&color=blueviolet" alt="Profile Views">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>"Good code is its own best documentation." — Steve McConnell</em>
 </p>
