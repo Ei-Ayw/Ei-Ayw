@@ -69,33 +69,64 @@ I believe good engineering is about **clarity, correctness, and clean abstractio
 
 > Sorted by technical depth. Each project is built from scratch with clean architecture, full documentation, and production-ready code.
 
-#### Systems & Desktop
+---
+
+#### PocketClaw — AI Desktop Assistant
+
+`Rust` `Tauri 2.0` `React` `TypeScript`
+
+High-performance cross-platform AI desktop assistant powered by ZeroClaw Engine. Direct IPC to Rust core, plugin system, multi-provider LLM support, security sandbox.
+
+<p align="center">
+  <a href="https://github.com/Ei-Ayw/PocketClaw">
+    <img src="https://raw.githubusercontent.com/Ei-Ayw/PocketClaw/main/zeroclaw_engine/zeroclaw.png" width="600" alt="PocketClaw">
+  </a>
+</p>
+
+---
+
+#### CodingQuest OJ — Online Judge System
+
+`Java` `Spring Boot` `Vue` `Elasticsearch` `Redis` `Docker`
+
+Full-stack online judge with secure code sandbox, async evaluation, multi-language support, and real-time submission tracking.
+
+<p align="center">
+  <a href="https://github.com/Ei-Ayw/ayw-oj-backend">
+    <img src="https://github.com/user-attachments/assets/c5c92d3d-a985-4820-bee5-af7604f5e721" width="600" alt="CodingQuest OJ">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ei-Ayw/ayw-oj-backend">
+    <img src="https://github.com/user-attachments/assets/2ee2cbb3-ffd2-4937-a608-cd1ef5917df7" width="600" alt="CodingQuest OJ Dashboard">
+  </a>
+</p>
+
+---
+
+#### SyncPulse — GitHub Mirroring Platform
+
+`React` `FastAPI` `Celery` `Redis`
+
+Automated GitHub-to-Gitee repository mirroring platform with OAuth 2.0, webhook-triggered sync, and real-time monitoring.
+
+<p align="center">
+  <a href="https://github.com/Ei-Ayw/SyncPulse">
+    <img src="https://raw.githubusercontent.com/Ei-Ayw/SyncPulse/master/assets/demo.gif" width="600" alt="SyncPulse Demo">
+  </a>
+</p>
+
+---
+
+#### More Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**PocketClaw**](https://github.com/Ei-Ayw/PocketClaw) | `Rust` `Tauri 2.0` `React` `TypeScript` | High-performance cross-platform AI desktop assistant powered by ZeroClaw Engine. Direct IPC to Rust core, plugin system, multi-provider LLM support, security sandbox. |
-| [**CryptoSage**](https://github.com/Ei-Ayw/CryptoSage) | `Python` `React` `TypeScript` `DeepSeek` | AI-driven cryptocurrency trading intelligence platform. Real-time market analysis, multi-exchange integration, backtesting engine, and interactive dashboard. |
-
-#### AI / Deep Learning Research
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**DFMamba**](https://github.com/Ei-Ayw/DFMamba) | `Python` `PyTorch` `Mamba SSM` `CUDA` | Novel semantic segmentation network for high-resolution remote sensing images. Improved UNetMamba with enhanced feature fusion and custom CUDA kernels. |
-| [**KnowledgeForge**](https://github.com/Ei-Ayw/KnowledgeForge) | `FastAPI` `React` `ChromaDB` `LLM` | RAG-powered intelligent document Q&A platform. Supports PDF/Markdown parsing, vector retrieval, multi-turn conversation with context-aware responses. |
-
-#### Full-Stack Applications
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**CodingQuest OJ**](https://github.com/Ei-Ayw/ayw-oj-backend) | `Java` `Spring Boot` `Vue` `Elasticsearch` | Full-stack online judge system with secure code sandbox, async evaluation, multi-language support, and real-time submission tracking. |
-| [**SyncPulse**](https://github.com/Ei-Ayw/SyncPulse) | `React` `FastAPI` `Celery` `Redis` | Automated GitHub-to-Gitee repository mirroring platform. OAuth 2.0 integration, webhook-triggered sync, real-time monitoring dashboard. |
-| [**RentEase**](https://github.com/Ei-Ayw/RentEase-Server) | `Django` `Vue` `WeChat Mini Program` | Smart rental management platform — three-tier architecture with AI-powered recommendations, WebSocket real-time chat, and map integration. |
-
-#### Platform & DevOps
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**agent-design**](https://github.com/Ei-Ayw/agent-design) | `Next.js 14` `FastAPI` `Helm` `K8s` | AI Agent orchestration platform with SSE streaming, RAG hybrid retrieval, tool calling, workflow approval engine, and OpenTelemetry observability. |
+| [**CryptoSage**](https://github.com/Ei-Ayw/CryptoSage) | `Python` `React` `DeepSeek` | AI-driven crypto trading intelligence platform with backtesting engine and interactive dashboard |
+| [**DFMamba**](https://github.com/Ei-Ayw/DFMamba) | `PyTorch` `Mamba SSM` `CUDA` | Novel semantic segmentation network for remote sensing with custom CUDA kernels |
+| [**KnowledgeForge**](https://github.com/Ei-Ayw/KnowledgeForge) | `FastAPI` `ChromaDB` `React` | RAG-powered document Q&A platform with vector retrieval and streaming responses |
+| [**RentEase**](https://github.com/Ei-Ayw/RentEase-Server) | `Django` `Vue` `WeChat MP` | Smart rental management — three-tier architecture with AI recommendations and WebSocket chat |
+| [**agent-design**](https://github.com/Ei-Ayw/agent-design) | `Next.js 14` `FastAPI` `K8s` | AI Agent orchestration platform with SSE, RAG, tool calling, and workflow engine |
 
 ---
 
