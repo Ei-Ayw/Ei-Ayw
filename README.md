@@ -133,9 +133,9 @@ Automated GitHub-to-Gitee repository mirroring platform with OAuth 2.0, webhook-
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ei-Ayw&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ei-Ayw&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
