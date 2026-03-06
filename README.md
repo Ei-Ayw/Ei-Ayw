@@ -126,6 +126,7 @@ Automated GitHub-to-Gitee repository mirroring platform with OAuth 2.0, webhook-
 | [**DFMamba**](https://github.com/Ei-Ayw/DFMamba) | `PyTorch` `Mamba SSM` `CUDA` | Novel semantic segmentation network for remote sensing with custom CUDA kernels |
 | [**KnowledgeForge**](https://github.com/Ei-Ayw/KnowledgeForge) | `FastAPI` `ChromaDB` `React` | RAG-powered document Q&A platform with vector retrieval and streaming responses |
 | [**RentEase**](https://github.com/Ei-Ayw/RentEase-Server) | `Django` `Vue` `WeChat MP` | Smart rental management — three-tier architecture with AI recommendations and WebSocket chat |
+| [**AgroSentinel**](https://github.com/Ei-Ayw/AgroSentinel) | `Vue 3` `ECharts` `Leaflet` | Agricultural ecosystem monitoring — multi-modal detection, federated learning, knowledge graph & GIS |
 | [**agent-design**](https://github.com/Ei-Ayw/agent-design) | `Next.js 14` `FastAPI` `K8s` | AI Agent orchestration platform with SSE, RAG, tool calling, and workflow engine |
 
 ---
